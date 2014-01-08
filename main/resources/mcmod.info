@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "moreutils",
+  "name": "More Utils",
+  "description": "SPACE!",
+  "version": "0.1",
+  "mcversion": "1.6.4",
   "url": "",
   "updateUrl": "",
-  "authors": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authors": ["DaKeksy"],
+  "credits": "DaKeksys for making this Stuff",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
