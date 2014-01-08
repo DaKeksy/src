@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreutils",
+  "name": "More Utils",
+  "description": "It adds ... more Utils!",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["DaKeksy"],
+  "credits": "DaKeksy for the Code, the Design and the Idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
