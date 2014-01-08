@@ -12,6 +12,7 @@ import de.dakeksy.moreutils.creativetab.MoreUtilsArmorToolsTab;
 import de.dakeksy.moreutils.creativetab.MoreUtilsCoreTab;
 import de.dakeksy.moreutils.items.Items;
 import de.dakeksy.moreutils.lib.Reference;
+import de.dakeksy.moreutils.oredictionary.OreDict;
 import de.dakeksy.moreutils.recipes.Recipes;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
@@ -28,6 +29,7 @@ public class MoreUtils {
 		Blocks.init();
 		Items.init();
 		Recipes.init();
+		OreDict.init();
 	}
 
 }
